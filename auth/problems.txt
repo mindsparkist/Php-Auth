@@ -1,0 +1,2 @@
+when putting input type = password in password field not working
+ Fixed - when cookie is set then cant go to index page
